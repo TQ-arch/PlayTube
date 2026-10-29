@@ -2,7 +2,7 @@
 
 <img src="fastlane/metadata/android/en-US/images/icon.png" alt="PlayTube Icon" width="120">
 
-# PlayTube
+# PlayTube by Tanishq Patel (CSE)
 
 ### A fast, private, and feature-rich YouTube client for Android
 
