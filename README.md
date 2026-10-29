@@ -8,54 +8,7 @@
 
 **No ads · No tracking · No data collection**
 
-<img src="fastlane/metadata/android/en-US/images/PlaytubefeatureGraphic.png" alt="PlayTube Feature Graphic" width="100%">
 
-<br>
-
-<p>
-  <a href="https://github.com/arslandaim-hub/PlayTube/releases/latest">
-    <img src="https://img.shields.io/github/v/release/arslandaim-hub/PlayTube?style=flat-square&color=10b981" alt="Latest Release">
-  </a>
-  <a href="https://github.com/arslandaim-hub/PlayTube/stargazers">
-    <img src="https://img.shields.io/github/stars/arslandaim-hub/PlayTube?style=flat-square&color=fbbf24" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/arslandaim-hub/PlayTube/network/members">
-    <img src="https://img.shields.io/github/forks/arslandaim-hub/PlayTube?style=flat-square&color=fbbf24" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/arslandaim-hub/PlayTube/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/arslandaim-hub/PlayTube?style=flat-square&color=3b82f6" alt="License">
-  </a>
-  <img src="https://img.shields.io/badge/Android-API%2024%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android API 24+">
-  <img src="https://img.shields.io/badge/Kotlin-100%25-B125EA?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/downloads/arslandaim-hub/PlayTube/total?style=flat-square&color=3b82f6&logo=github" alt="Total Downloads">
-</p>
-
-<br>
-
-<a href="https://github.com/arslandaim-hub/PlayTube/releases/latest">
-  <img src="https://img.shields.io/badge/GET%20IT%20ON-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="50" alt="Get it on GitHub">
-</a>
-
-<br><br>
-
-<a href="https://f-droid.org/packages/com.arslandaim.playtube/">
-  <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="50" alt="Get it on F-Droid">
-</a>
-
-<br><br>
-
-<a href="https://github.com/ImranR98/Obtainium">
-  <img src="https://img.shields.io/badge/Get%20Updates%20via-Obtainium-4CAF50?style=for-the-badge" height="50" alt="Get Updates via Obtainium">
-</a>
-
-<br>
-
-<sub>Use <b>Obtainium</b> to receive updates directly from PlayTube's GitHub releases.</sub>
-
-</div>
 
 ---
 
