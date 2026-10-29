@@ -124,19 +124,7 @@ For the complete license terms, see the [LICENSE](LICENSE) file.
 
 ---
 
-## Support PlayTube
 
-If you enjoy using PlayTube and would like to support its continued development, consider becoming a patron.
-
-Your support helps with continued development, maintenance, bug fixes, and future improvements.
-
-<div align="center">
-
-<a href="https://patreon.com/ArslanDaim77">
-  <img src="https://img.shields.io/badge/Become%20a%20Patron-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Become a Patron">
-</a>
-
-</div>
 
 ---
 
